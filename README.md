@@ -27,6 +27,7 @@ MediApprove is a complete solution for automating insurance approval decisions f
 
 ⚡ Fast Processing: Process documents in < 5 seconds
 
+
 🏗️ Architecture
 text
 ┌─────────────────┐    ┌──────────────────┐    ┌──────────────┐
@@ -42,6 +43,7 @@ text
 │  Report         │    │  • Internet      │    │  & Validation│
 │                 │    │  • Local DB      │    │              │
 └─────────────────┘    └──────────────────┘    └──────────────┘
+
 🛠️ Technology Stack
 Frontend: Streamlit 1.28+ for web interface
 
@@ -370,3 +372,4 @@ HL7 for FHIR standard
 Python community
 
 Built with ❤️ for healthcare automation
+
