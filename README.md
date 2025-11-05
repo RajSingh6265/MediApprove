@@ -116,6 +116,7 @@ View policy sources with links
 ⚠️ CONDITIONAL (70-89%)
 
 ## 📁 Project Structure
+```
 
 mediapprove/
 ├── swarms_dashboard.py              # Main Streamlit app
@@ -136,6 +137,7 @@ mediapprove/
 │
 └── .streamlit/
     └── secrets.toml                # API keys (PRIVATE)
+```
 
 
 
@@ -161,6 +163,7 @@ Python community
 
 # Built with ❤️ for healthcare automation
     
+
 
 
 
