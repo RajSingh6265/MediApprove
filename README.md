@@ -20,7 +20,7 @@
 - 💻 **Web Dashboard** - Streamlit-based user interface
 - ⚡ **Fast Processing** - Process documents in < 5 seconds
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Frontend: Streamlit 1.28+ for web interface
 
@@ -38,7 +38,7 @@ Hosting: Streamlit Cloud (24/7 deployment)
 
 Version Control: Git/GitHub
 
-📦 Installation
+## 📦 Installation
 Prerequisites
 Python 3.9+
 Git
@@ -70,7 +70,7 @@ Get free API key: https://ai.google.dev
 streamlit run swarms_dashboard.py
 
 
-🚀** Quick Start**
+## 🚀 Quick Start
 1. **Process Documents**
 
  Open dashboard and go to "🚀 Process" tab
@@ -92,7 +92,7 @@ Download Text Report
 View policy sources with links
 
 
-**📊 Supported Features**
+## 📊 Supported Features
 **Document Types**
 
 -- Clinical Notes
@@ -115,7 +115,7 @@ View policy sources with links
 ✅ APPROVED (80-100%)
 ⚠️ CONDITIONAL (70-89%)
 
-**📁 Project Structure**
+## 📁 Project Structure
 
 mediapprove/
 ├── swarms_dashboard.py              # Main Streamlit app
@@ -138,7 +138,7 @@ mediapprove/
     └── secrets.toml                # API keys (PRIVATE)
 
 
-**🔄 How It Works**
+## 🔄 How It Works
 Step 1: Upload clinical document (PDF/image)
 Step 2: AI extracts medical information
 Step 3: Convert to FHIR-compliant format
@@ -149,7 +149,7 @@ Step 7: Generate professional report
 Step 8: Display decision with policy links
 
 
-**🙏 Acknowledgments**
+## 🙏 Acknowledgments
 
 Google Gemini for AI extraction
 Streamlit for web framework
@@ -158,8 +158,9 @@ DuckDuckGo for policy search
 HL7 for FHIR standard
 Python community
 
-Built with ❤️ for healthcare automation
+# Built with ❤️ for healthcare automation
     
+
 
 
 
