@@ -73,23 +73,23 @@ streamlit run swarms_dashboard.py
 🚀** Quick Start**
 1. **Process Documents**
 
-# Open dashboard and go to "🚀 Process" tab
-# Upload PDF or image
-# Click "START SWARMS PROCESSING"
-# View extracted FHIR resources
+ Open dashboard and go to "🚀 Process" tab
+Upload PDF or image
+ Click "START SWARMS PROCESSING"
+View extracted FHIR resources
 
 2. **Check Insurance Approval**
 
-# Go to "💰 Insurance Approval" tab
-# Upload clinical document
-# Click "CHECK INSURANCE APPROVAL"
-# See decision with policy references
+ Go to "💰 Insurance Approval" tab
+ Upload clinical document
+ Click "CHECK INSURANCE APPROVAL"
+ See decision with policy references
 
 3. **Download Results**
 
-# Download FHIR JSON
-# Download Text Report
-# View policy sources with links
+Download FHIR JSON
+Download Text Report
+View policy sources with links
 
 
 **📊 Supported Features**
@@ -160,6 +160,7 @@ Python community
 
 Built with ❤️ for healthcare automation
     
+
 
 
 
