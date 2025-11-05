@@ -2,11 +2,11 @@
 
 #AI-Powered Insurance Approval Decision Engine for Medical Imaging Procedures
 
-**## 📋 Overview**
+## 📋 Overview
 
 **MediApprove is a complete solution for automating insurance approval decisions for medical imaging procedures. It combines clinical document processing, AI-powered policy analysis, and real-time policy verification to provide instant insurance approval decisions with full transparency.**
 
-**## ✨ Features**
+## ✨ Features
 
 - 📄 **Document Processing** - Converts PDFs and images to structured clinical data
 - 🤖 **AI Extraction** - Uses Google Gemini API for intelligent document understanding
@@ -20,7 +20,7 @@
 - 💻 **Web Dashboard** - Streamlit-based user interface
 - ⚡ **Fast Processing** - Process documents in < 5 seconds
 
-🛠️ **Technology Stack**
+##🛠️ Technology Stack
 
 Frontend: Streamlit 1.28+ for web interface
 
@@ -160,6 +160,7 @@ Python community
 
 Built with ❤️ for healthcare automation
     
+
 
 
 
