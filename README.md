@@ -138,6 +138,7 @@ mediapprove/
     └── secrets.toml                # API keys (PRIVATE)
 
 
+
 ## 🔄 How It Works
 Step 1: Upload clinical document (PDF/image)
 Step 2: AI extracts medical information
@@ -160,6 +161,7 @@ Python community
 
 # Built with ❤️ for healthcare automation
     
+
 
 
 
