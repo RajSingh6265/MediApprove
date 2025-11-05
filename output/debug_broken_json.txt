@@ -1,0 +1,530 @@
+{
+  "patient_demographics": {
+    "name": "Braun, Rupert Daniel",
+    "dob": "1977-11-18",
+    "age": "47",
+    "gender": "male",
+    "mrn": "00000010",
+    "admission_id": "1b41534f-271a-407f-a948-22c783eb10b4",
+    "address": "082 Charles Bypass Suite 350",
+    "city": "Monicafort",
+    "state": "VT",
+    "zip": "59796"
+  },
+  "social_history": {
+    "occupation": "Construction site manager",
+    "marital_status": "Married",
+    "smoking": "Former smoker, quit 8 years ago",
+    "alcohol": "Social drinker, 2-3 beers on weekends",
+    "exercise": "Regular gym attendance 3 times a week, plays recreational basketball",
+    "living_situation": "Lives at home with family (wife and two sons)"
+  },
+  "admission": {
+    "chief_complaint": "Fall down 15 stairs, found unresponsive",
+    "history_present_illness": "47-year-old male presents to the ED following a fall down 15 stairs. Patient was found unresponsive at the scene after falling down approximately 15 stairs. The exact time of onset is unknown, but EMS was called immediately upon discovery. The incident occurred at the patient's home. Duration of unconsciousness is unclear. The nature of the injury is blunt trauma, likely involving multiple body systems. Aggravating factors include movement and stimulation. There are no known alleviating factors at this time. The severity is critical, given the patient's low GCS score and need for intubation. On arrival to the ED, patient's GCS was 7 (E1V1M5), indicating severe impairment of consciousness. Due to his low GCS and inability to protect his airway, the patient was intubated. Bilateral bleeding from the ears was noted, raising concern for basilar skull fracture. Review of Systems: General: Unresponsive, intubated. Respiratory: On mechanical ventilation, unable to assess spontaneous respiratory effort. Cardiovascular: Unable to obtain due to patient's condition. Musculoskeletal: Full extent of injuries unknown pending further examination and imaging. Neurological: GCS 7 on arrival, pupils equal and reactive to light, bleeding from ears bilaterally. Endocrine: Unable to assess due to patient's condition. Psychiatric: Unable to assess due to patient's condition. Patient remains critically ill, requiring full trauma evaluation and neuroimaging to assess the extent of injuries, particularly intracranial hemorrhage and cervical spine involvement.",
+    "date_admission": "2023-05-01",
+    "date_discharge": "",
+    "initial_gcs": "7 (E1V1M5)",
+    "mechanism_of_injury": "Fall down 15 stairs"
+  },
+  "medical_history": {
+    "past_medical_history": [
+      "Hypertension (diagnosed 5 years ago, well-controlled with medication)",
+      "Mild asthma (diagnosed in childhood, occasional use of inhaler)",
+      "Appendicitis (20 years ago)",
+      "Mononucleosis (during college)",
+      "Fractured right wrist from a sports injury (15 years ago, healed without complications)",
+      "Overnight observation for concussion after a car accident (10 years ago)"
+    ],
+    "surgical_history": [
+      "Appendectomy (20 years ago)",
+      "Arthroscopic knee surgery for meniscus tear (5 years ago)"
+    ],
+    "family_history": [
+      "Father: Type 2 diabetes, diagnosed at age 60",
+      "Mother: Breast cancer survivor, diagnosed at age 55",
+      "Brother: Hypertension"
+    ]
+  },
+  "home_medications": [
+    {
+      "name": "Lisinopril",
+      "dosage": "10mg",
+      "frequency": "daily",
+      "route": "oral"
+    },
+    {
+      "name": "Albuterol inhaler",
+      "dosage": "",
+      "frequency": "as needed",
+      "route": "inhaled"
+    },
+    {
+      "name": "Multivitamin",
+      "dosage": "",
+      "frequency": "daily",
+      "route": "oral"
+    }
+  ],
+  "hospital_medications": [
+    {
+      "name": "Phenytoin",
+      "dosage": "20 mg/kg",
+      "frequency": "loading dose",
+      "route": "IV",
+      "indication": "seizure prophylaxis"
+    },
+    {
+      "name": "Mannitol",
+      "dosage": "1 g/kg",
+      "frequency": "if signs of increased ICP",
+      "route": "IV",
+      "indication": "increased ICP"
+    },
+    {
+      "name": "Tranexamic acid",
+      "dosage": "1g",
+      "frequency": "over 10 minutes, then 1g over 8 hours",
+      "route": "IV",
+      "indication": "hemorrhage"
+    },
+    {
+      "name": "Levetiracetam",
+      "dosage": "As prescribed",
+      "frequency": "Twice daily",
+      "route": "Intravenous",
+      "indication": "seizure prophylaxis"
+    }
+  ],
+  "allergies": [
+    {
+      "substance": "Penicillin",
+      "reaction": "mild rash",
+      "severity": "mild"
+    },
+    {
+      "substance": "Seasonal pollen",
+      "reaction": "hay fever symptoms",
+      "severity": "mild"
+    }
+  ],
+  "vital_signs": [
+    {
+      "date": "2023-05-01",
+      "type": "Blood Pressure",
+      "value": "145/92",
+      "unit": "mmHg"
+    },
+    {
+      "date": "2023-05-01",
+      "type": "Heart Rate",
+      "value": "110",
+      "unit": "bpm"
+    },
+    {
+      "date": "2023-05-01",
+      "type": "Respiratory Rate",
+      "value": "16",
+      "unit": "breaths/min"
+    },
+    {
+      "date": "2023-05-01",
+      "type": "Temperature",
+      "value": "36.8",
+      "unit": "°C"
+    },
+    {
+      "date": "2023-05-01",
+      "type": "Oxygen Saturation",
+      "value": "99",
+      "unit": "%"
+    },
+    {
+      "date": "2023-05-02",
+      "type": "Blood Pressure",
+      "value": "132/78",
+      "unit": "mmHg"
+    },
+    {
+      "date": "2023-05-02",
+      "type": "Heart Rate",
+      "value": "88",
+      "unit": "bpm"
+    },
+    {
+      "date": "2023-05-02",
+      "type": "Respiratory Rate",
+      "value": "14",
+      "unit": "breaths/min"
+    },
+    {
+      "date": "2023-05-02",
+      "type": "Temperature",
+      "value": "37.2",
+      "unit": "°C"
+    },
+    {
+      "date": "2023-05-02",
+      "type": "Oxygen Saturation",
+      "value": "100",
+      "unit": "%"
+    },
+    {
+      "date": "2023-05-02",
+      "type": "Intracranial Pressure",
+      "value": "15",
+      "unit": "mmHg"
+    },
+    {
+      "date": "2023-05-03",
+      "type": "Blood Pressure",
+      "value": "128/74",
+      "unit": "mmHg"
+    },
+    {
+      "date": "2023-05-03",
+      "type": "Heart Rate",
+      "value": "82",
+      "unit": "bpm"
+    },
+    {
+      "date": "2023-05-03",
+      "type": "Respiratory Rate",
+      "value": "16",
+      "unit": "breaths/min"
+    },
+    {
+      "date": "2023-05-03",
+      "type": "Temperature",
+      "value": "37.0",
+      "unit": "°C"
+    },
+    {
+      "date": "2023-05-03",
+      "type": "Oxygen Saturation",
+      "value": "99",
+      "unit": "%"
+    },
+    {
+      "date": "2023-05-03",
+      "type": "Intracranial Pressure",
+      "value": "12",
+      "unit": "mmHg"
+    }
+  ],
+  "lab_results": [
+    {
+      "date": "2023-05-01",
+      "test_name": "Heart Rate (ECG)",
+      "value": "72",
+      "unit": "bpm",
+      "reference_range": ""
+    },
+    {
+      "date": "2023-05-01",
+      "test_name": "PR Interval (ECG)",
+      "value": "192",
+      "unit": "ms",
+      "reference_range": ""
+    },
+    {
+      "date": "2023-05-01",
+      "test_name": "QRS Duration (ECG)",
+      "value": "92",
+      "unit": "ms",
+      "reference_range": ""
+    },
+    {
+      "date": "2023-05-01",
+      "test_name": "QT/QTc Interval (ECG)",
+      "value": "448/490",
+      "unit": "ms",
+      "reference_range": ""
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Sodium",
+      "value": "138",
+      "unit": "mmol/L",
+      "reference_range": "135-145"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Potassium",
+      "value": "4.2",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.0"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Chloride",
+      "value": "104",
+      "unit": "mmol/L",
+      "reference_range": "98-107"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Bicarbonate",
+      "value": "24",
+      "unit": "mmol/L",
+      "reference_range": "22-29"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "BUN",
+      "value": "18",
+      "unit": "mg/dL",
+      "reference_range": "7-20"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Creatinine",
+      "value": "0.9",
+      "unit": "mg/dL",
+      "reference_range": "0.6-1.2"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Glucose",
+      "value": "110",
+      "unit": "mg/dL",
+      "reference_range": "70-100"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "WBC",
+      "value": "12.5",
+      "unit": "K/uL",
+      "reference_range": "4.5-11.0"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Hemoglobin",
+      "value": "11.8",
+      "unit": "g/dL",
+      "reference_range": "13.5-17.5"
+    },
+    {
+      "date": "2023-05-02",
+      "test_name": "Platelets",
+      "value": "180",
+      "unit": "K/uL",
+      "reference_range": "150-450"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Sodium",
+      "value": "140",
+      "unit": "mmol/L",
+      "reference_range": "135-145"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Potassium",
+      "value": "4.0",
+      "unit": "mmol/L",
+      "reference_range": "3.5-5.0"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Chloride",
+      "value": "106",
+      "unit": "mmol/L",
+      "reference_range": "98-107"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Bicarbonate",
+      "value": "25",
+      "unit": "mmol/L",
+      "reference_range": "22-29"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "BUN",
+      "value": "16",
+      "unit": "mg/dL",
+      "reference_range": "7-20"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Creatinine",
+      "value": "0.8",
+      "unit": "mg/dL",
+      "reference_range": "0.6-1.2"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Glucose",
+      "value": "105",
+      "unit": "mg/dL",
+      "reference_range": "70-100"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "WBC",
+      "value": "10.2",
+      "unit": "K/uL",
+      "reference_range": "4.5-11.0"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Hemoglobin",
+      "value": "11.5",
+      "unit": "g/dL",
+      "reference_range": "13.5-17.5"
+    },
+    {
+      "date": "2023-05-03",
+      "test_name": "Platelets",
+      "value": "195",
+      "unit": "K/uL",
+      "reference_range": "150-450"
+    }
+  ],
+  "imaging": [
+    {
+      "date": "2023-05-01",
+      "type": "CT",
+      "body_part": "Head",
+      "findings": "Scalp hematoma, bilateral periorbital ecchymosis, otorrhea and hemotympanum bilaterally, bilateral longitudinal temporal bone fractures, diffuse axonal injury.",
+      "impression": "Severe traumatic brain injury with suspected basilar skull fracture, bilateral longitudinal temporal bone fractures, diffuse axonal injury."
+    },
+    {
+      "date": "2023-05-01",
+      "type": "CT",
+      "body_part": "Cervical Spine",
+      "findings": "Full extent of injuries unknown pending further examination and imaging.",
+      "impression": ""
+    },
+    {
+      "date": "2023-05-01",
+      "type": "CT",
+      "body_part": "Chest",
+      "findings": "Full extent of injuries unknown pending further examination and imaging.",
+      "impression": ""
+    },
+    {
+      "date": "2023-05-01",
+      "type": "CT",
+      "body_part": "Abdomen",
+      "findings": "Full extent of injuries unknown pending further examination and imaging.",
+      "impression": ""
+    },
+    {
+      "date": "2023-05-01",
+      "type": "CT",
+      "body_part": "Pelvis",
+      "findings": "Full extent of injuries unknown pending further examination and imaging.",
+      "impression": ""
+    },
+    {
+      "date": "2023-05-02",
+      "type": "CT",
+      "body_part": "Head",
+      "findings": "Stable diffuse axonal injury, no new hemorrhage.",
+      "impression": "Stable diffuse axonal injury, no new hemorrhage."
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2023-05-01",
+      "procedure_name": "Intubation",
+      "indication": "Low GCS and inability to protect airway",
+      "provider": "",
+      "details": ""
+    },
+    {
+      "date": "2023-05-01",
+      "procedure_name": "ICP monitoring",
+      "indication": "Management of severe TBI",
+      "provider": "",
+      "details": ""
+    }
+  ],
+  "conditions": [
+    {
+      "condition_name": "Severe traumatic brain injury",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Basilar skull fracture",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Intracranial hemorrhage",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Cervical spine injury",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Multisystem trauma",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Respiratory failure, intubated",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Altered mental status",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Polytrauma",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Hypertension",
+      "status": "active",
+      "onset_date": "~2018"
+    },
+    {
+      "condition_name": "Mild asthma",
+      "status": "active",
+      "onset_date": "childhood"
+    },
+    {
+      "condition_name": "Appendicitis",
+      "status": "resolved",
+      "onset_date": "~2003"
+    },
+    {
+      "condition_name": "Mononucleosis",
+      "status": "resolved",
+      "onset_date": "college"
+    },
+    {
+      "condition_name": "Fractured right wrist",
+      "status": "resolved",
+      "onset_date": "~2008"
+    },
+    {
+      "condition_name": "Concussion",
+      "status": "resolved",
+      "onset_date": "~2013"
+    },
+    {
+      "condition_name": "Bilateral longitudinal temporal bone fractures",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Diffuse axonal injury",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    },
+    {
+      "condition_name": "Bilateral hemotympanum",
+      "status": "active",
+      "onset_date": "2023-05-01"
+    } 
