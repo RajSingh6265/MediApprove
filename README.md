@@ -1,6 +1,6 @@
 # 🏥 MediApprove
 
-#AI-Powered Insurance Approval Decision Engine for Medical Imaging Procedures
+#AI-Powered Insurance Approval Decision Engine for Medical Imaging Procedures.
 
 ## 📋 Overview
 
@@ -163,6 +163,7 @@ Python community
 
 # Built with ❤️ for healthcare automation
     
+
 
 
 
