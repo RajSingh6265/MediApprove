@@ -1,8 +1,3 @@
-"""
-Smart Medical Document Classifier
-Identifies document types automatically
-100% WORKING - Does not affect existing code!
-"""
 
 import os
 import re
