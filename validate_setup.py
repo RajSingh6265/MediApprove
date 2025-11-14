@@ -1,6 +1,4 @@
-"""
-Validate setup and fix common issues
-"""
+
 
 from pathlib import Path
 from policy_vectordb import PolicyVectorDatabase
